@@ -88,9 +88,7 @@ const SocialMediaSection = () => {
                   h="12"
                   p="3"
                 >
-                  <Image
-                    src={`src/assets/images/social-media/${icon.name}.svg`}
-                  />
+                  <Image src={`/assets/images/social-media/${icon.name}.svg`} />
                 </Link>
               ))}
             </Grid>

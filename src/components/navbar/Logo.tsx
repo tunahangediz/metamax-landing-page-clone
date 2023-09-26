@@ -7,10 +7,7 @@ const Logo: FC = () => (
       <Image
         fill="white"
         height="30px"
-        src={mode(
-          "src/assets/images/svg/metamax-dark-logo.svg",
-          "src/assets/images/svg/metamax-light-logo.svg"
-        )}
+        src={mode("/metamin.svg", "/metamin.svg")}
         alt="metamax-log"
       />
     }

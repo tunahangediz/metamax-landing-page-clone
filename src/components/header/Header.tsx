@@ -38,7 +38,7 @@ const Header: FC = () => {
           <Image
             width="full"
             objectFit="cover"
-            src="src/assets/images/svg/header-image.svg"
+            src="/images/svg/header-image.svg"
           />
         </Box>
       </Stack>
