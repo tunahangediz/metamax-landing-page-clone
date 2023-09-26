@@ -1,6 +1,6 @@
 Clone landing page that I developed during my internship at metamax.com.tr.
 
-My project: [Live Preview ](https://tunahangediz.com) Original website: metamax.com.tr
+My project: [Live Preview ](https://metamax-landing-page-clone.vercel.app/) and Original website: metamax.com.tr
 Note: The original website may have changed by the time you viewed this.
 
 ### Built With
