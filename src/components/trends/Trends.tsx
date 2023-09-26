@@ -1,25 +1,8 @@
-import {
-  Heading,
-  Stack,
-  VStack,
-  Text,
-  GridItem,
-  Grid,
-  useColorModeValue as mode,
-  Image,
-  chakra,
-  Box,
-  Checkbox,
-  Flex,
-  Button,
-  FormControl,
-  FormLabel,
-  Input,
-} from "@chakra-ui/react";
-import TrendsCarousel from "./TrendsCarousel";
+import { Stack, VStack, useColorModeValue as mode } from "@chakra-ui/react";
 import SectionHeading from "../common/SectionHeading";
-import TrendsInputFiled from "./TrendsInputFiled";
+import TrendsCarousel from "./TrendsCarousel";
 import TrendsHeader from "./TrendsHeader";
+import TrendsInputFiled from "./TrendsInputFiled";
 
 const Trends = () => {
   return (

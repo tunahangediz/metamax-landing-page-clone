@@ -30,8 +30,8 @@ const Patent: FC = () => {
     >
       <Image
         src={mode(
-          "src/assets/images/svg/turk-patent-light.svg",
-          "src/assets/images/svg/turk-patent-dark.svg"
+          "assets/images/svg/turk-patent-light.svg",
+          "assets/images/svg/turk-patent-dark.svg"
         )}
       />
       <motion.div

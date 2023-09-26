@@ -103,7 +103,7 @@ const TrendsCarousel: FC = () => {
           >
             <AspectRatio w="full" minH="270px" ratio={4 / 3}>
               <Image
-                src={`src/assets/images/trends/${content.imgName}.jpg`}
+                src={`assets/images/trends/${content.imgName}.jpg`}
                 alt="Green double couch with wooden legs"
                 roundedTop="lg"
               />

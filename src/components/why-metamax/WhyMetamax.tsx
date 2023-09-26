@@ -27,8 +27,8 @@ const WhyMetamax: FC = () => {
         <Box>
           <Image
             src={mode(
-              "src/assets/images/svg/why-metamax-light.svg",
-              "src/assets/images/svg/why-metamax-dark.svg"
+              "assets/images/svg/why-metamax-light.svg",
+              "assets/images/svg/why-metamax-dark.svg"
             )}
           />
         </Box>
@@ -36,7 +36,7 @@ const WhyMetamax: FC = () => {
           alignItems="flex-start"
           textAlign="left"
           justifyContent="space-around"
-          maxW={"700px"}
+          maxW={"600px"}
         >
           <SectionHeading>NEDEN METAMAX?</SectionHeading>
           <Heading

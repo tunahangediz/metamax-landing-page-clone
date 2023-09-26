@@ -13,8 +13,8 @@ const cardContents = [
   {
     name: "Ön Satış",
     src: {
-      light: "src/assets/images/svg/on-satis.svg",
-      dark: "src/assets/images/svg/on-satis-dark.svg",
+      light: "assets/images/svg/on-satis.svg",
+      dark: "assets/images/svg/on-satis-dark.svg",
     },
     bgPosition: "bottom left",
     text: "Emlak ürünleri yatırımcılara avantajlı fiyatlarla sunulur ve talep toplanır.",
@@ -23,8 +23,8 @@ const cardContents = [
   {
     name: "Tokenizasyon",
     src: {
-      light: "src/assets/images/svg/tokenizasyon.svg",
-      dark: "src/assets/images/svg/tokenizasyon-dark.svg",
+      light: "assets/images/svg/tokenizasyon.svg",
+      dark: "assets/images/svg/tokenizasyon-dark.svg",
     },
     bgPosition: "top left",
     text: "Talep toplama süreci tamamlanan emlak ürünü NFT'ye dönüştürülür ve yatırımcılara payı oranında dağıtılır.",
@@ -33,8 +33,8 @@ const cardContents = [
   {
     name: "Market",
     src: {
-      light: "src/assets/images/svg/market.svg",
-      dark: "src/assets/images/svg/market-dark.svg",
+      light: "assets/images/svg/market.svg",
+      dark: "assets/images/svg/market-dark.svg",
     },
     bgPosition: "bottom right",
     text: "Yatırımcılar 7/24 işlem yapabilir, Market'te portföylerini çeşitlendirebilir.",
